@@ -1,4 +1,8 @@
 ### Hi there 👋
+</p> -->
+<p href="Tukz" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/990055597330296872/>
+</p>
 <p href="Tukz"n="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/990055597330296872)/>
 </p>
