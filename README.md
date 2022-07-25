@@ -1,5 +1,4 @@
-<p href="Hi There 👋" align="center">
-</p> -->
+
 <p href="Tukz" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/990055597330296872/>
 
