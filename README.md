@@ -1,5 +1,5 @@
 .gg/ghoul
-.gg/xtwitch
+.gg/onlp
 <p href="Tukz" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/990055597330296872/>
 
