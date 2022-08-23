@@ -1,5 +1,6 @@
 .gg/ghoul
 .gg/onlp
+![](https://komarev.com/ghpvc/?username=Tukz1)
 <p href="Tukz" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/990055597330296872/>
 
