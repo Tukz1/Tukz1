@@ -5,6 +5,7 @@
 
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/tukz1" alt="Tukz1" /> </p>
-<p align="center"> <img src="![](https://github-readme-stats.vercel.app/api?username=Tukz1&show_icons=true&theme=radical)"/> </p>
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <div align="center"><h4>.gg/onlp<h4/></div>  
 
