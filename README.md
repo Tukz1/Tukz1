@@ -5,5 +5,5 @@
 
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/tukz1" alt="Tukz1" /> </p>
-<div align="center"><h4>.gg/onlp<h4/></div>  
+<div align="center"><h4>`.gg/onlp`<h4/></div>  
 
