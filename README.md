@@ -14,6 +14,6 @@
   </a>
 </p>
 <br>
-<p align="center"> <img src="https://gpvc.arturio.dev/daddy94" alt="testing" /> </p>
+
 <div align="center"><h4>.gg/onlp<h4/></div>  
 
